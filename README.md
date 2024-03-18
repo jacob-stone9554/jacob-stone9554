@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#, ASP.NET Core, HTML, CSS and JavaScript
 - 📫 How to reach me: jacob.stone.developer@outlook.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I climb mountains!
+- ⚡ Fun fact: I climb mountains
 
 <!---
 jacob-stone9554/jacob-stone9554 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
