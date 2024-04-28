@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @jacob-stone9554
-- 👀 I’m interested in web development, mobile development, annd machine learning
-- 🌱 I’m currently learning C#, ASP.NET Core, HTML, CSS and JavaScript
-- 📫 How to reach me: jacob.stone.developer@outlook.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I climb mountains
+- My name is Jacob Stone
+- I'm a software developer! I specialize in web development.
+- I work with C#, ASP.NET Core, HTML, CSS, and JavaScript.
+- I am learning ReactJS
+- You can reach me at jacob.stone.developer@outlook.com
+- Outside of writing code, I climb mountains in my free time :)
 
 <!---
 jacob-stone9554/jacob-stone9554 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
