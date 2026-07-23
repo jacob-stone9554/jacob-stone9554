@@ -1,6 +1,6 @@
 # Hi, I'm Jacob
 
-I'm a backend focused software engineer with 1.5+ years of professional experience building and maintaining enterprise systems.
+I'm a backend focused software engineer with 2+ years of professional experience building and maintaining enterprise systems.
 
 I specialize in designing APIs, working with relational databases, and building scalable backend services using the .NET ecosystem.
 
